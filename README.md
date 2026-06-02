@@ -1,16 +1,58 @@
-## Hi there 👋
+# Reza Jowkar
 
-<!--
-**RezaGift/RezaGift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Python Engineer · Fintech · Algorithmic Trading · Payment Systems**
 
-Here are some ideas to get you started:
+Founder of [**RezaGift.com**](https://rezagift.com) — digital goods marketplace specializing in gift cards, accounts, and multi-region payment processing. Building production fintech systems for over a decade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+15+ years in software engineering, payment systems, and embedded/security work.
+
+---
+
+### 🛠 What I Build
+
+**🤖 Algorithmic Trading Systems**  
+Production-grade crypto trading bots with ML pipelines, walk-forward validation, real-money safety gates, and live execution against Binance Futures. 15,000+ LOC, not strategy toys. Built-in Telegram critical-event alerting, 4-layer real-money gate, deterministic backtests, embargo-aware ML.
+
+**🔍 Automated Security Auditing**  
+Self-hosted website security scanning systems with fallback verification, network resilience, and accurate scoring across varied security configurations.
+
+**🛡️ Security Research Lab**  
+Controlled environment for vulnerability research, payload analysis, and defensive tooling.
+
+**💳 Payment & Regional Commerce**  
+RezaGift.com handles multi-region gift cards, account verification, and cryptocurrency settlement. Years of production experience with what real payment systems require.
+
+---
+
+### 💼 Technical Stack
+
+**Languages:** Python (expert), JavaScript, Bash, SQL  
+**ML / Data:** scikit-learn, XGBoost, LightGBM, TensorFlow / Keras, pandas, NumPy  
+**Backend:** Flask, FastAPI, async patterns, WebSockets  
+**Trading / Finance:** CCXT, Binance Futures API, walk-forward validation, real-money safety patterns  
+**Infrastructure:** Docker, Linux server admin, automated deployments  
+**Specialized:** Firmware modification, mobile/embedded reverse engineering, payment processor integration, multi-region commerce
+
+---
+
+### 🤝 Available For
+
+- Algorithmic trading bot development (crypto, futures, market-neutral strategies)
+- Payment system integration (multi-region, crypto settlement, gift card APIs)
+- Fintech backend engineering
+- Technical consulting on production trading infrastructure
+- Security audit tooling
+
+---
+
+### 📫 Contact
+
+🌐 **Website:** [rezagift.com](https://rezagift.com)  
+💼 **LinkedIn:** *(coming soon)*  
+📧 **Email:** *(via website contact)*
+
+---
+
+### 📌 Pinned Projects
+
+See pinned repositories below ⬇️
