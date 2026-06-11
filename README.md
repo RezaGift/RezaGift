@@ -11,7 +11,7 @@ Founder of [**RezaGift.com**](https://rezagift.com) — digital goods marketplac
 ### 🛠 What I Build
 
 **🤖 Algorithmic Trading Systems**  
-Production-grade crypto trading bots with ML pipelines, walk-forward validation, real-money safety gates, and live execution against Binance Futures. 15,000+ LOC, not strategy toys. Built-in Telegram critical-event alerting, 4-layer real-money gate, deterministic backtests, embargo-aware ML.
+Production crypto trading bots with ML-based signal generation, robust backtesting, multi-stage safety controls, and live exchange integration. Built for reliability, not speed-to-demo.
 
 **🔍 Automated Security Auditing**  
 Self-hosted website security scanning systems with fallback verification, network resilience, and accurate scoring across varied security configurations.
@@ -29,7 +29,7 @@ RezaGift.com handles multi-region gift cards, account verification, and cryptocu
 **Languages:** Python (expert), JavaScript, Bash, SQL  
 **ML / Data:** scikit-learn, XGBoost, LightGBM, TensorFlow / Keras, pandas, NumPy  
 **Backend:** Flask, FastAPI, async patterns, WebSockets  
-**Trading / Finance:** CCXT, Binance Futures API, walk-forward validation, real-money safety patterns  
+**Trading / Finance:** CCXT, Binance Futures API  
 **Infrastructure:** Docker, Linux server admin, automated deployments  
 **Specialized:** Firmware modification, mobile/embedded reverse engineering, payment processor integration, multi-region commerce
 
@@ -37,10 +37,10 @@ RezaGift.com handles multi-region gift cards, account verification, and cryptocu
 
 ### 🤝 Available For
 
-- Algorithmic trading bot development (crypto, futures, market-neutral strategies)
+- Algorithmic trading bot development (crypto, futures)
 - Payment system integration (multi-region, crypto settlement, gift card APIs)
 - Fintech backend engineering
-- Technical consulting on production trading infrastructure
+- Technical consulting
 - Security audit tooling
 
 ---
