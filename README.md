@@ -151,7 +151,7 @@ Production digital-goods marketplace handling multi-region gift cards, account v
 ## 📫 Contact
 
 🌐 **Website:** [rezagift.com](https://rezagift.com)
-📧 **Email:** *(via website contact form)*
+📧 **Email:** RezaGift.com@yahoo.com
 💼 **LinkedIn:** *(coming soon)*
 
 ---
